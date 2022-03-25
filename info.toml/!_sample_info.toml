@@ -1,0 +1,14 @@
+display_name = "Your mod name here"
+authors = "your username here, second author here, etc"
+version = "1.0.0"
+description = """
+Keep the triple quotes
+
+so that
+
+you can add new lines
+!! Rename the file to "info.toml" !!
+
+mod description here
+"""
+category = "Fighter | Stage | Effects | UI | Param | Music | Misc"
